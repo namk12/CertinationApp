@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_pls"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_pls"
+            android:icon="@drawable/ic_menu_pls"
+            android:title="PLS" />
+        <item
+            android:id="@+id/nav_rms"
+            android:icon="@drawable/ic_menu_pls"
+            android:title="RMS" />
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/ic_menu_training"
+            android:title="Training" />
+        <item
+            android:id="@+id/nav_internship"
+            android:icon="@drawable/ic_menu_internship"
+            android:title="Internship" />
+        <item
+            android:id="@+id/nav_workshop"
+            android:icon="@drawable/ic_menu_workshop"
+            android:title="Workshop" />
+        <item
+            android:id="@+id/nav_jobs"
+            android:icon="@drawable/ic_menu_jobs"
+            android:title="Jobs" />
+        <item
+            android:id="@+id/nav_guest_lecture"
+            android:icon="@drawable/ic_menu_guest_lecture"
+            android:title="Guest Lectures" />
+        <item
+            android:id="@+id/nav_parent"
+            android:icon="@drawable/ic_menu_parent"
+            android:title="Parents Portal" />
+    </group>
+    <item android:title="Utilites">
+        <menu>
+            <item
+                android:id="@+id/nav_note_maker"
+                android:icon="@drawable/ic_menu_findus"
+                android:title="Note Maker" />
+            <item
+                android:id="@+id/nav_calculator"
+                android:icon="@drawable/ic_menu_findus"
+                android:title="Calculaor" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_find_us"
+                android:icon="@drawable/ic_menu_findus"
+                android:title="Find Us" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_feedback"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_contactus"
+                android:icon="@drawable/ic_menu_contactus"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>

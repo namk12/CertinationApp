@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay1">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/refreshbtn"
+        android:text="Refresh"
+        android:onClick="onRefreshLoad"/>
+
+    <android.support.v7.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="pls.certination.com.Pls.Job_portal.Job_portal"
+        android:id="@+id/applied_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+        <!--android:scrollbars="vertical"-->
+
+
+
+</LinearLayout>
+
+
+

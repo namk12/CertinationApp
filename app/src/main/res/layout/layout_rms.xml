@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/img22"
+    tools:context="com.example.atreetech.demo.MainActivity"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FEW"
+        android:textColor="#000000"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:fontFamily="serif-monospace"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/few" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DETAILS"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000"
+        android:textSize="40sp"
+        android:layout_below="@+id/few"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/detail"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3C3C3C"
+        android:text="Send us details about the incident
+         you would like to report."
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/detail"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/text2"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_below="@+id/text2"
+            android:layout_marginTop="20dp"
+
+            android:id="@+id/linear">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/texttype"
+                android:textSize="20dp"
+
+                android:textColor="#3C3C3C"
+                android:text="TYPE OF ENQUIRY"
+                />
+
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rdg"
+                android:orientation="vertical"
+                android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/suggest"
+                android:text="SUGGESTION"
+
+                android:textStyle="bold"
+                android:checked="false"
+                />
+
+
+
+                <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/complaint"
+                android:checked="false"
+                android:text="COMPLAINT"
+
+
+
+
+                android:textStyle="bold"
+                />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/request"
+
+                android:textStyle="bold"
+                android:checked="false"
+
+
+                android:text="REQUEST"
+                android:layout_alignTop="@+id/complaint"
+                android:layout_toRightOf="@+id/complaint"
+                android:layout_toEndOf="@+id/complaint"
+                />
+
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/enquiry"
+                android:text="ENQUIRY"
+                android:textStyle="bold"
+
+                android:layout_below="@+id/suggest"
+                 />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/compliment"
+                android:text="COMPLIMENT"
+
+
+                android:textStyle="bold"
+                android:layout_below="@+id/complaint"
+                android:layout_centerHorizontal="true" />
+
+        </RadioGroup>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/department"
+                android:layout_below="@+id/enquiry"
+                android:text="DEPARTMENT"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:id="@+id/dept_spin"
+                android:layout_below="@+id/department"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/rounded_edittext"
+                android:entries="@array/dept_arrays"
+                android:prompt="@string/spinner_prompt1"
+
+
+
+
+
+                />
+            <!--android:prompt="@string/spinner_title"
+            android:background="@drawable/rounded_edittext"
+                android:prompt="@entries/spinner_prompt1"
+                android:entries="@array/dept_arrays"-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/subDepartment"
+                android:layout_below="@+id/dept_spin"
+                android:text="SUB-DEPARTMENT"
+                android:layout_marginTop="10dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:id="@+id/sub"
+                android:layout_marginTop="10dp"
+                android:prompt="@string/spinner_prompt2"
+                android:layout_below="@+id/subDepartment"
+                android:background="@drawable/rounded_edittext"
+                android:entries="@array/sub_dept_arrays">
+
+
+
+            </Spinner>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/nametext"
+                android:text="NAME"
+                android:layout_marginTop="10dp"
+                android:textSize="20dp"/>
+
+            <EditText
+                android:id="@+id/input_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:singleLine="true"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:textColorHint="#969696"
+                android:hint="Enter Full Name"
+                android:imeOptions="actionNext"
+                android:background="@drawable/rounded_edittext"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/emailtext"
+                android:text="EMAIL"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textSize="20dp"/>
+
+
+
+            <EditText
+                android:id="@+id/input_email"
+                android:layout_width="match_parent"
+                android:inputType="textEmailAddress"
+                android:hint="Enter Email"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="50dp"
+                android:singleLine="true"
+                android:imeOptions="actionNext"
+                android:textColorHint="#969696"
+                android:background="@drawable/rounded_edittext"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/desctext"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="DESCRIPTION"/>
+
+
+            <EditText
+                android:id="@+id/input_des"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:hint="Enter Description"
+                android:gravity="top"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:layout_height="150dp"
+                android:imeOptions="actionDone"
+                android:textColorHint="#969696"
+                android:background="@drawable/rounded_edittext"/>
+
+            <Button android:id="@+id/btn"
+                android:layout_width="match_parent"
+                android:text="SUBMIT"
+                android:layout_marginTop="40dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:background="#FF2A2A"
+                android:textColor="@android:color/white"
+                android:onClick="onButtonClick"/>
+
+
+
+
+        </LinearLayout>
+
+
+</RelativeLayout>
+
+    </ScrollView>

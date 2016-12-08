@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!-- Editext for Search -->
+        <EditText android:id="@+id/inputSearch"
+            android:layout_width="298dp"
+            android:layout_height="wrap_content"
+            android:hint="Search designation.."
+            android:inputType="textVisiblePassword"
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:text="search"
+            android:id="@+id/searchbtn" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="pls.certination.com.Pls.Job_portal.Search"
+        android:id="@+id/recyview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+        <!--android:scrollbars="vertical"-->
+
+
+</LinearLayout>

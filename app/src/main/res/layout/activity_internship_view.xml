@@ -1,0 +1,77 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/intern_android"
+            />
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/intern_database"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView3"
+            android:src="@drawable/intern_digital_marketing"
+            android:layout_below="@+id/imageView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            />
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView4"
+            android:src="@drawable/intern_embedded_systems"
+            android:layout_below="@+id/imageView2"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2" />
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView5"
+            android:src="@drawable/intern_html"
+            android:layout_below="@+id/imageView3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            />
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView6"
+            android:src="@drawable/intern_networking"
+            android:layout_below="@+id/imageView4"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2" />
+
+        <ImageView
+            android:layout_width="173dp"
+            android:layout_height="160dp"
+            android:id="@+id/imageView7"
+            android:src="@drawable/intern_php"
+            android:layout_below="@+id/imageView5"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"/>
+
+
+    </RelativeLayout>
+</ScrollView>

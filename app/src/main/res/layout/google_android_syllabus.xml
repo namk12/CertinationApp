@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="2000dp" >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="2000dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Android Introduction"
+            android:id="@+id/textView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Certination with range of products in its portfolio caters well to the rising demand for Android based mobile application development. In this course we are using a development and test management product. It is a visual development environment to develop, analyze, simulate, and test applications for the Android platform. "
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" About the technology "
+            android:textColor="#FFFFFF"
+            android:background="#3E50B4"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="The exponential growth of smart phone usage has created a sudden demand in mobile application development skills in the market. Today, there is handful of platforms (smart phones and tablets) that runs these smart devices. This platform domain is led by Apple iOS, Google Android, Microsoft Windows Phone, Symbian platforms - with Apple and Android, being the front runners. Apple iOS is a propriety platform, on the other hand, Android is an open source platform that requires development skills, in Java. It has right set of components available for open source IDEs like Eclipse."
+            android:id="@+id/textView6"
+            android:layout_below="@+id/textView3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" What Will You Learn? "
+            android:textColor="#FFFFFF"
+            android:background="#3E50B4"
+            android:layout_below="@+id/textView6"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/textView8" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="
+    The students will learn how to develop applications for Android mobile devices
+    The students will be eligible for millions of jobs around the world
+    The students will be able to develop mobile applications with shared database supports
+    The students will be able to develop mobile applications that can smartly communicate with a server applications
+    The students will be able to develop multimedia and location based applications for Android devices
+    Understand the entire Android Apps Development Cycle
+    Learn to think computationally.
+    Design and implement a moderately-complex app with real-world implications.
+"
+            android:id="@+id/textView7"
+            android:layout_below="@+id/textView8"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Course Content "
+            android:textColor="#FFFFFF"
+            android:background="#3E50B4"
+            android:id="@+id/textView9"
+            android:layout_below="@+id/textView7"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text=" This course covers the following:
+
+            JAVA Concepts OOPs Concepts, Inheritance in detail, Exception handling Packages and interfaces, JVM and .jar file extension, Collections – HashTable, Vector, List, ArrayList, HashMap, Multi threading(Thread class and Runnable Interface)
+        SQL DML and DDL Queries in brief
+        Introduction to Android What is Android?, Setting up development environment, Dalvik Virtual Machine and .apk file extension Fundamentals :
+        a) Basic Building blocks – Activities,Services,Broadcast Receiver and Content providers
+        b) UI Components- Views and notifications
+        c) Components for communication - Intents and Intent Filter Android API levels(versions and version names)
+        Application Structure(in detail) AndroidManifest.xml • uses-permission and uses-sdk • Activity/services/receiver declarations, Resources and R.java, Assets Values – strings.xml Layouts and Drawable Resources , Activities and Activity lifecycle, First sample Application Deploying sample application on a real device
+        Emulator-Android Virtual Device, Launching emulator, Editing emulator settings, Emulator shortcuts, Logcat usage Introduction to DDMS Values – strings.xml, Layouts and Drawable Resources Activities and Activity lifecycle First sample Application Deploying sample application on a real device
+        Basic UI design Form widgets Text Fields Layouts • RelativeLayout ,TableLayout, FrameLayout, LinearLayout • Nested layouts [dip,dp,sip,sp] versus px Examples
+        Preferences Shared Preference , Preferences from xml Examples
+        Menu Option menu Context, menu Sub menu, menu from xml, menu via code Examples
+        Intents (in detail), Explicit Intents, Implicit intents Examples
+        UI design Time and Date, Images and media Composite, AlertDialogs and Toast Popu Examples
+        Tabs and TabActivity Examples
+        Styles and Themes styles.xml, colors.xml- declaring colors and drawables, Drawable resources for shapes,gradients(selectors) • Shapes drawables • State drawables • Transition drawables • Patch drawables style attribute in layout file Applying themes via code and manifest file Examples
+        SQLite Programming, SQLite Programming, SQLiteOpenHelper, SQLite Database, Cursor Content providers • Defining and using content providers • Example- Sharing database among two different applications using content Providers Reading and updating Contacts Reading bookmarks Example : − Develop an App to demonstrate database usage, CRUD operations must be implemented, Final details should be viewed in GridView as well as in ListView. ListView. − Do the same application with database operations in a single class(As a Model class) and do the CRUD operations with this class object
+        Android Debug Bridge(adb) tool
+        Linkify Web URLs, Email address, text,map address, phone numbers MatchFilter and TransformFilter Examples
+        Adapters and Widgtes Adapters :-
+        a) ArrayAdapters
+        b) BaseAdapters
+        Example - Efficient Adapter ListView and ListActivity Custom listview GridView using adapters Gallery using adapters Examples
+        Notifications Broadcast Receivers Services and notifications Toast Alarms Examples
+        Custom components Custom Toast Custom dialogs Custom Tabs Custom animated popup panels Other components Examples
+        Threads running on UI thread(runOnUiThread) Worker thread Handlers and Runnable AsynTask(in detail) Examples
+        Advanced Live Folders Using sdcards – Reading and writing XML Parsing JSON Parsing Including external libraries in our application Maps via intent and MapActivity GPS, Location based Services Accessing Phone services(Call,SMS,MMS)
+        "
+            android:id="@+id/textView10"
+            android:layout_below="@+id/textView9"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+    </RelativeLayout>
+</ScrollView>

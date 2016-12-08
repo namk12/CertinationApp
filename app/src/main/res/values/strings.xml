@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Certination</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="large_text"><b>Perfect</b> Authorized Courses</string>
+    <string name="large_text1">Passion is the difference between having a job or having a career.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_workshop">Workshop</string>
+    <string name="title_activity_guest_lecture">GuestLecture</string>
+    <string name="title_activity_internship">Internship</string>
+    <string name="title_activity_jobs">Jobs</string>
+    <string name="title_activity_parent_connection">ParentConnection</string>
+    <string name="title_activity_pls">PLS</string>
+    <string name="title_activity_training">Training</string>
+
+    <string name="intro">Which of the following describes your experience with our application?</string>
+    <string name="intro1">Moderate</string>
+    <string name="intro2">Good</string>
+    <string name="intro3">Awesome</string>
+    <string name="get_in_touch">Get In Touch</string>
+    <string name="get_social_with_us">Get Social with Us</string>
+
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_request">Request</string>
+    <string-array name="options">
+        <item>Ruby</item>
+        <item>Embedded Systems</item>
+        <item>php</item>
+        <item>HTML 5</item>
+        <item>Android</item>
+        <item>Arduino</item>
+        <item>Software Testing</item>
+        <item>Digital Marketing</item>
+    </string-array>
+    <string-array name="subjects">
+        <item>Physics</item>
+        <item>Maths</item>
+        <item>Chemistry</item>
+        <item>Android</item>
+        <item>iOS</item>
+        <item>JAVA</item>
+
+    </string-array>
+    <string name="title_activity_apply">Apply</string>
+
+    <string name="label_name">Name:</string>
+    <string name="label_email">Email address:</string>
+    <string name="label_password">Password:</string>
+    <string name="label_password_confirm">Retype password:</string>
+
+    <!-- button labels -->
+    <string name="button_register">Register</string>
+
+    <!-- warnings -->
+    <string name="warning_name_empty">Name cannot be empty</string>
+    <string name="warning_name_lowercase">Name should start from an uppercase letter</string>
+    <string name="warning_email_empty">Email cannot be empty</string>
+    <string name="warning_email_invalid">Invalid email format</string>
+    <string name="warning_password_empty">Password cannot be empty</string>
+    <string name="warning_passwords_do_not_match">Passwords do not match</string>
+
+    <!-- info messages -->
+    <string name="info_registered">Registered. ObjectId: %s</string>
+
+    <string name="info_registered_success">Registered successfully</string>
+
+    <string name="info_logged_in">Logged in. ObjectId: %s</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <!-- loading messages -->
+    <string name="loading_empty">Loading…</string>
+    <string name="loading_register">Sending registration request…</string>
+    <string name="loading_login">Logging in…</string>
+
+    <string name="already_registered"><u>Already have an account? Sign in</u></string>
+    <string name="prompt_name">Name</string>
+    <string name="action_register">Register</string>
+    <string name="app_decription">Your awesome app</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="different_login">or</string>
+    <string name="plus_sign_out">Change Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">The password is too short</string>
+    <string name="error_incorrect_password">Email or password incorrect</string>
+    <string name="error_field_required">Required</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="create_account">Register</string>
+    <string name="phone">Phone Number</string>
+    <string name="name">Certination Inc</string>
+    <string name="signup"><u>Not a user yet?Sign up</u></string>
+    <string name="Start_browsing"><u>Start browsing</u></string>
+
+
+    <string name="title_activity_testinfo">testinfo</string>
+    <string name="title_activity_display">display</string>
+    <string name="title_activity_logicaltest">logicaltest</string>
+    <string name="title_activity_logicalmain">logicalmain</string>
+    <string name="title_activity_gktest">Gktest</string>
+    <string name="title_activity_rms_main">Rms Main</string>
+    <string name="title_activity_lms_main">Lms Main</string>
+    <string name="title_activity_gkmain">Gkmain</string>
+    <string name="title_activity_frontpage">Frontpage</string>
+    <string name="spinner_prompt1"> -Select Department- </string>
+    <string name="spinner_prompt2"> -Select Sub-Department- </string>
+
+    <string-array name="dept_arrays">
+
+        <item>Courses</item>
+        <item>Internships</item>
+        <item>Jobs</item>
+        <item>Part-time Jobs</item>
+        <item>Training</item>
+        <item>Workshops</item>
+
+    </string-array>
+
+    <string-array name="sub_dept_arrays">
+
+        <item>Android App Development</item>
+        <item>Web Development</item>
+        <item>Digital Marketing</item>
+        <item>Content Writing</item>
+        <item>Ios Development</item>
+        <item>Database Building</item>
+        <item>Sofware Testing</item>
+
+    </string-array>
+
+
+    <string name="note">Note</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="add_note">Add a note…</string>
+    <string name="edit_note">Edit note…</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="edited">Edited</string>
+    <string name="last_edited">Last edited: </string>
+    <string name="done">DONE</string>
+
+
+
+<string name="stdCal">Standard Calculator</string>
+<string name="sciCal">Scientific Calculator</string>
+<string name="unitCal">Unit Converter</string>
+<string name="FullCal">Calculator App</string>
+<string name="title_activity_standard_cal">StandardCal</string>
+<string name="title_activity_scientific_cal">ScientificCal</string>
+<string name="title_activity_unit_coverter">UnitCoverter</string>
+<string name="clear">C</string>
+<string name="backspace">⌫</string>
+<string name="divide">÷</string>
+<string name="sqrt">√</string>
+<string name="cuberoot">\u221B</string>
+<string name="square">x²</string>
+<string name="cube">x\u00B3</string>
+<string name="tenpow">10\u207F</string>
+<string name="sininv">sin\u207B\u00B9</string>
+<string name="cosinv">cos\u207B\u00B9</string>
+<string name="taninv">tan\u207B\u00B9</string>
+<string name="posneg">±</string>
+<string name="arrow">↑</string>
+<string name="xpown">xⁿ</string>
+<string name="epown">eⁿ</string>
+<string name="pi">π</string>
+<string name="title_activity_unit_area">UnitArea</string>
+<string name="title_activity_unit_length">UnitLength</string>
+<string name="title_activity_unit_weight">UnitWeight</string>
+<string name="title_activity_unit_temperature">UnitTemperature</string>
+<string name="openBracket">(</string>
+<string name="closeBracket">)</string>
+<string name="history">History</string>
+
+<string-array name="area">
+<item>Sq. Millimeter</item>
+<item>Sq. Centimeter</item>
+<item>Sq Meter</item>
+<item>Sq. Kilometer</item>
+<item>Acre</item>
+<item>Hectare</item>
+</string-array>
+
+<string-array name="length">
+<item>Nanometer</item>
+<item>Millimeter</item>
+<item>Centimeter</item>
+<item>Meter</item>
+<item>Kilometer</item>
+<item>Inches</item>
+<item>Foot</item>
+<item>Yards</item>
+<item>Mile</item>
+</string-array>
+
+<string-array name="temperature">
+<item>Celsius</item>
+<item>Farenheit</item>
+<item>Kelvin</item>
+</string-array>
+
+<string-array name="weight">
+<item>Milligrams</item>
+<item>Centigrams</item>
+<item>Decigrams</item>
+<item>Grams</item>
+<item>Kilograms</item>
+<item>Metric tonnes</item>
+<item>Pounds</item>
+<item>Ounces</item>
+</string-array>
+
+<string name="title_activity_history">History</string>
+<string name="deleteHistory">Delete History</string>
+<string name="mode1">Degree</string>
+<string name="mode2">Radian</string>
+<string name="toggle">Switch</string>
+<string name="sin">sin</string>
+<string name="cos">cos</string>
+<string name="tan">tan</string>
+<string name="naturalLog">ln</string>
+<string name="hyperbolicSine">sinh</string>
+<string name="hyperbolicCosine">cosh</string>
+<string name="hyperbolicTan">tanh</string>
+<string name="log">log</string>
+<string name="Mod">%</string>
+<string name="inverse">1/x</string>
+<string name="factorial" >x!</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="commu">Which of these is a communication skill?</string>
+    <string name="commu_A"> talking at the same time as someone else</string>
+    <string name="commu_B"> listening to what people say</string>
+    <string name="commu_C"> putting your fingers in your ears</string>
+    <string name="commu_D"> None of the above</string>
+    <string name="listen">"list"</string>
+    <string name="team">Which of the following is NOT a symptom of Group Think</string>
+    <string name="team_A">Illusions of Vulnerability</string>
+    <string name="team_B">Applying direct pressure to deviants</string>
+    <string name="team_C">Mind-gurading</string>
+    <string name="team_D">Self Censorship by members</string>
+    <string name="leader">Which of the following is not true concerning the difference between managers and leaders?</string>
+    <string name="leader_A">managers are appointed</string>
+    <string name="leader_B">managers influence through informal means</string>
+    <string name="leader_C">leaders may be appointed</string>
+    <string name="leader_D">leader can influence beyond normal authority</string>
+    <string name="mentor">Mentoring is a process of</string>
+    <string name="mentor_A">  cloning another person to be like yourself</string>
+    <string name="mentor_B"> guiding and learning in a relationship between two people</string>
+    <string name="mentor_C">  brainwashing a person to fit the organizations mold</string>
+    <string name="mentor_D"> None of the above</string>
+    <string name="presentation">To select the content of your presentation, you should know:</string>
+    <string name="presentation_A">the available material</string>
+    <string name="presentation_B">your purpose</string>
+    <string name="presentation_C">the time limit</string>
+    <string name="presentation_D">the audience’s needs</string>
+    <string name="creative">One of the main aims of creativity in advertising is to gain:</string>
+    <string name="creative_A">Awareness</string>
+    <string name="creative_B">Attention</string>
+    <string name="creative_C">Interest</string>
+    <string name="creative_D">Brand Loyalty</string>
+    <string name="deter">In "ABC" approach which is used in formulating hypothesis, "C" stands for</string>
+    <string name="deter_A">compensating</string>
+    <string name="deter_B">communication</string>
+    <string name="deter_C">counseling</string>
+    <string name="deter_D">consequences</string>
+
+
+
+
+</resources>

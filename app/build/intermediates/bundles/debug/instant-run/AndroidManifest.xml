@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pls.certination.com.certination"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+ <!-- Optional permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <application
+        name="android.support.multidex.MultiDexApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBrQS4y44MAcoMjPdcGd7JDt2T7qAjaAiQ" />
+
+        <activity
+            android:name="pls.certination.com.certination.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pls.certination.com.GuestLectures.GuestLecture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Internship.Internship"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Jobs.Jobs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.ParentConnection.ParentConnection"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Training.Training"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Workshop.Workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Pls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Training.ViewCourses"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="pls.certination.com.certination.MapsActivity" />
+        <activity android:name="pls.certination.com.Training.Register" />
+        <activity
+            android:name="pls.certination.com.Workshop.WorkshopRegister"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="pls.certination.com.certination.FeedBack"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="pls.certination.com.certination.ContactUs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="pls.certination.com.GuestLectures.GuestLectureApply" />
+        <activity android:name="pls.certination.com.GuestLectures.GuestLectureRequest" />
+        <activity android:name="pls.certination.com.GuestLectures.GuestLectureRegister" />
+        <activity
+            android:name="pls.certination.com.Resume.ResumeBuilder"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Internship.InternshipView"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Coupons.Coupon"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="pls.certination.com.Pls.Login" />
+        <activity
+            android:name="pls.certination.com.Pls.SignUp"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="pls.certination.com.Training.GoogleAndroid.GoogleAndroids"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Rms.rms"
+            android:label="@string/title_activity_rms_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.learning.learning_front"
+            android:label="@string/title_activity_lms_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.learning.assignment_student"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.pool_friends"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.learning.time_table.table"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="pls.certination.com.Pls.learning.time_table.Course" />
+        <activity android:name="pls.certination.com.Pls.learning.time_table.Schedule" />
+        <activity
+            android:name="pls.certination.com.Pls.learning.time_table.Tab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.student_ambassador.Student_ambassador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.profile.Profile_first"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Query_managment.Query_managment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Query_managment.Asking"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Query_managment.Questions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Query_managment.SingleQuestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Account_managment.Account_managment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Account_managment.DetailActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="pls.certination.com.certination.utilities.note_maker.Note_maker" />
+        <activity android:name="pls.certination.com.certination.utilities.note_maker.CamActivity" />
+        <activity android:name="pls.certination.com.certination.utilities.note_maker.EditNoteActivity" />
+        <activity android:name="pls.certination.com.certination.utilities.note_maker.CreateNoteActivity" />
+        <activity android:name="pls.certination.com.certination.utilities.note_maker.Info" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.Calculator"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.ScientificCal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.StandardCal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.UnitArea"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.UnitCoverter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.UnitLength"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.UnitTemperature"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.UnitWeight"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.certination.utilities.calculator.History"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.resume_meter.resume_meter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.resume_meter.ProgressActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.learning.Result.graph_view"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="pls.certination.com.Pls.learning.Result.StudentAccessActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="pls.certination.com.Pls.learning.Result.TeacherAccessActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="pls.certination.com.Pls.learning.Result.Result"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="pls.certination.com.Pls.Job_portal.Job_portal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Job_portal.Search"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Soft_Skills.Soft_Skills"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Soft_Skills.Display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.Soft_Skills.Question"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.Apptitude"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.Frontpage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.Gkmain"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.Gktest"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.logicalmain"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.logicaltest"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.testinfo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pls.certination.com.Pls.apptitude.display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="pls.certination.com.certination.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rr"
+    tools:context="pls.certination.com.GuestLectures.GuestLecture"
+    android:background="#fff"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:contentDescription="Lectures"
+        android:src="@drawable/guest_lecturefinal"
+        android:id="@+id/rr2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/guestlectureregister"
+        android:layout_below="@+id/rr2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/butt"
+        android:text="APPLY NOW"
+        android:textStyle="bold"
+        android:textColor="#109FD4"
+        android:layout_marginTop="40dp"
+        android:onClick="register"
+        android:clickable="true"
+        />
+
+    <Button
+        android:clickable="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/butt"
+        android:text="REQUEST FOR LECTURES"
+        android:textStyle="bold"
+        android:textColor="#109FD4"
+        android:onClick="request"
+        android:id="@+id/guestlecturerequest"
+        android:layout_below="@+id/guestlectureregister"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp" />
+
+</RelativeLayout>

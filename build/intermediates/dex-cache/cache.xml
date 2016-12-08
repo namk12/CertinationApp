@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="K:\certination project\Certination\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a477e0aca0179d229a71081b004e2aa0a3a4693c">
+        <dex dex="K:\certination project\Certination\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5a1b67402cc78641d410a42a3554d8ab0607a84\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    android:background="@drawable/back_img">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student's Marks Evaluation"
+        android:textSize="20dp"
+        android:fontFamily="serif"
+        android:textColor="#993300"
+        android:id="@+id/txt"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="English"
+        android:id="@+id/textView"
+        android:textStyle="bold"
+        android:textSize="14dp"
+        android:layout_marginTop="70dp"
+        android:padding="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et1_marks"
+        android:layout_marginTop="70dp"
+        android:padding="20dp"
+        android:hint="Marks out of 100"
+        android:inputType="numberDecimal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hindi"
+        android:textStyle="bold"
+        android:padding="20dp"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+
+        />
+
+    <TextView
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Math"
+        android:textStyle="bold"
+        android:padding="20dp"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+
+        />
+
+    <EditText
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et2_marks"
+        android:hint="Marks out of 100"
+        android:padding="20dp"
+        android:inputType="numberDecimal"
+        android:layout_below="@+id/et1_marks"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et3_marks"
+        android:hint="Marks out of 100"
+        android:padding="20dp"
+        android:inputType="numberDecimal"
+        android:layout_below="@+id/et2_marks"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Percentage"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/textView6"
+        android:textStyle="bold"
+        android:layout_below="@+id/id"
+        android:padding="20dp"
+
+       />
+
+    <TextView
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:textColor="#FF2A00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Percentage"
+        android:padding="20dp"
+        android:id="@+id/textView7"
+        android:layout_below="@+id/id"
+        android:layout_alignRight="@+id/idtxt"
+        android:layout_alignEnd="@+id/idtxt"
+
+        android:layout_alignLeft="@+id/idtxt"
+        android:layout_alignStart="@+id/idtxt" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EVALUATE PERCENTAGE"
+        android:textColor="#fff"
+        android:background="#557FFF"
+        android:id="@+id/bt_marks2"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="Graph"
+        android:id="@+id/bt_graph"
+        android:layout_below="@+id/bt_marks2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textStyle="bold"
+        android:id="@+id/name"
+        android:padding="20dp"
+        android:layout_below="@+id/textView3" />
+
+    <TextView
+        android:textSize="14dp"
+        android:textStyle="bold"
+
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="id"
+        android:padding="20dp"
+        android:id="@+id/id"
+        android:layout_below="@+id/name"
+        android:layout_alignParentLeft="true"
+        />
+
+    <EditText
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nametxt"
+        android:hint="Student Name"
+
+        android:padding="20dp"
+        android:layout_below="@+id/et3_marks"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/et3_marks"
+        android:layout_alignStart="@+id/et3_marks" />
+
+    <EditText
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Student id"
+       android:padding="20dp"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/idtxt"
+        android:layout_below="@+id/name"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+
+        android:layout_alignLeft="@+id/nametxt"
+        android:layout_alignStart="@+id/nametxt" />
+
+</RelativeLayout>

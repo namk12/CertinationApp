@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:orientation="vertical"
+tools:context=".MapsActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:layout_weight="1.0"
+        android:orientation="vertical" >
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+
+        android:layout_weight="1.0"
+        android:orientation="vertical" >
+
+
+        <TextView
+            android:id="@+id/certinationdelhi"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:drawableLeft="@drawable/ic_menu_findus1"
+            android:layout_margin="7dp"
+            android:paddingTop="5dp"
+            android:clickable="true"
+            android:text="Certination Solution and Services Partner, C-338, 4th Floor, Gayatri Sadan, Palam Extn., Ramphal Chawk, Sector-7 Dwarka New Delhi-110075"
+            android:lines="3"
+            android:textSize="17dp"/>
+
+        <TextView
+            android:id="@+id/certinationjalandhar"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:drawableLeft="@drawable/ic_menu_findus1"
+            android:layout_margin="7dp"
+            android:paddingTop="5dp"
+            android:clickable="true"
+            android:text="Certination Solution and Services Partner, Block-13, Lovely Professional University, Jalandhar-Delhi G T Road, NH-1"
+            android:lines="3"
+            android:textSize="17dp"/>
+
+        <TextView
+            android:id="@+id/certinationjamshedpur"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:drawableLeft="@drawable/ic_menu_findus1"
+            android:layout_margin="7dp"
+            android:clickable="true"
+            android:text="Certination Solution and Services Partner, Corporate Park, Jamshedpur, JH-831003"
+            android:lines="3"
+            android:textSize="17dp"/>
+
+        <!--<ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/list">
+        </ListView>-->
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pls\certination\com\Pls\Pls$override.class
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pls\certination\com\Pls\Pls$4$override.class
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pls\certination\com\Pls\Pls$1$override.class
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pls\certination\com\Pls\Pls$3$override.class
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,K:\certination project\Certination\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pls\certination\com\Pls\Pls$2$override.class

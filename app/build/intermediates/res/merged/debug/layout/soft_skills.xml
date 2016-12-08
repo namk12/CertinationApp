@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/images1"
+    android:padding="2dp">
+
+    <ImageView
+        android:id="@+id/commu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/a"
+        android:alpha="1"/>
+
+    <ImageView
+        android:id="@+id/listen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/commu"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ss" />
+
+    <ImageView
+        android:id="@+id/team"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/listen"
+        android:layout_marginRight="56dp"
+        android:src="@drawable/team" />
+
+    <ImageView
+        android:id="@+id/leader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listen"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/leadrrship" />
+
+    <ImageView
+        android:id="@+id/creative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/leader"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/create" />
+
+    <ImageView
+        android:id="@+id/mentor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/listen"
+        android:layout_below="@+id/leader"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/ment" />
+
+    <ImageView
+        android:id="@+id/presentn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team"
+        android:layout_alignTop="@+id/mentor"
+        android:layout_below="@+id/creative"
+        android:src="@drawable/presentation"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/determination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/commu"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="37dp"
+        android:src="@drawable/deter" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Communication"
+        android:id="@+id/textView2"
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="85dp"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Listening"
+        android:id="@+id/textView3"
+        android:layout_alignParentLeft="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/listen"
+        android:layout_marginTop="2dp"
+
+
+
+        android:layout_marginLeft="55dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Leadership"
+        android:id="@+id/textView4"
+        android:layout_alignParentLeft="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/leader"
+        android:layout_marginTop="2dp"
+
+
+
+        android:layout_marginLeft="17dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Mentoring"
+        android:id="@+id/textView5"
+        android:layout_alignParentLeft="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/mentor"
+        android:layout_marginTop="2dp"
+
+
+
+        android:layout_marginLeft="50dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Determination"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/determination"
+        android:textColor="#000"
+        android:textSize="12dp"
+
+
+
+        android:layout_marginLeft="150dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Teamwork"
+        android:id="@+id/textView7"
+        android:layout_alignParentRight="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/team"
+        android:layout_marginTop="2dp"
+
+
+
+
+        android:layout_marginRight="55dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Creativity"
+        android:id="@+id/textView8"
+        android:layout_alignParentRight="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/leader"
+        android:layout_marginTop="2dp"
+
+
+
+        android:layout_marginRight="19dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Presentation"
+        android:id="@+id/textView9"
+        android:layout_alignParentRight="true"
+
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_below="@+id/presentn"
+        android:layout_marginTop="2dp"
+
+
+
+
+        android:layout_marginRight="50dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Determination"
+        android:id="@+id/textView10"
+        android:textColor="#000"
+        android:textSize="12dp"
+
+        android:gravity="center"
+
+
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:background="@drawable/softskillsman"
+        android:id="@+id/bt_softskill"
+        android:layout_above="@+id/determination"
+        android:layout_centerHorizontal="true"
+        android:layout_alignTop="@+id/team" />
+
+
+</RelativeLayout>
+
+
+
+
+
+
+

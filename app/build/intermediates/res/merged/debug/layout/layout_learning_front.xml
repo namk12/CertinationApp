@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/jaya3"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+
+        android:windowSoftInputMode="adjustResize" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:drawableLeft="@drawable/assignment"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textSize="15dp"
+                android:text="Assignments"
+                android:onClick="on_create_assignment"
+                android:background="#330fdbfa"
+                android:id="@+id/button"
+                android:textStyle="bold"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/research"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textSize="15dp"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:textStyle="bold"
+                android:text="Reasearch Project"
+                android:background="#3300FFD4"
+                android:id="@+id/button2"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/attendence"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textSize="15dp"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:textStyle="bold"
+                android:text="View Attendence"
+                android:background="#33FF2A00"
+                android:id="@+id/button3"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/result"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:text="View Result"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:onClick="on_create_result"
+                android:background="#337FFF00"
+                android:id="@+id/button4"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/timetable2"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="View Time Table"
+                android:background="#33FF2AAA"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:onClick="on_time_table"
+                android:id="@+id/button5"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/academic2"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:text="Academic Course Syllabus"
+                android:background="#33AA00FF"
+                android:id="@+id/button6"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/library2"
+                android:paddingLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:stateListAnimator="@anim/lift_on_touch"
+                android:clickable="true"
+                android:text="Library Search"
+                android:background="#337FFFAA"
+                android:id="@+id/button7"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:fillViewport="true"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:id="@+id/relative_resume">
+        <!--android:background="@drawable/newimgee"-->
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RESUME METER"
+            android:textSize="30dp"
+            android:id="@+id/txt1"
+
+            android:textStyle="bold"
+            android:textColor="#0388D3"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt2"
+            android:layout_below="@+id/txt1"
+            android:text="Certination Resume Efficiency Meter tells you how good or bad your resume is against some basic parameters."
+            android:textSize="18sp"
+            android:layout_marginTop="20dp"
+            android:textColor="#005555"
+            />
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt2"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#308B8B8B"
+            >
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/ed_name"
+                android:hint="Enter your name"
+                android:textSize="18dp"
+                android:layout_marginTop="10dp"
+                android:textColorHint="#000"
+                />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt7"
+                android:layout_below="@+id/ed_name"
+                android:layout_marginTop="20dp"
+                android:text="Please select if  the following required fields are mentioned/available in your resume or not."
+                android:textSize="18dp"
+                android:textColor="#000"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/txt7"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt8"
+                    android:textColor="#000000"
+
+                    android:text="Your resume is less than 1.5 pages in length"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt8"
+                    android:id="@+id/rd1"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:textColor="#000"
+                        android:id="@+id/r1"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r2"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt9"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd1"
+                    android:text="Your resume has your photograph pasted in it"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt9"
+                    android:id="@+id/rd2"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r3"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r4"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt10"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd2"
+                    android:text="Your resume contains your Date of Birth, Gender, or Nationality"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt10"
+                    android:id="@+id/rd3"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r5"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r6"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt11"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd3"
+                    android:text="You have mentioned your school achievements (especially before 10th Standard) in your resume"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt11"
+                    android:id="@+id/rd4"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:textColor="#000"
+                        android:id="@+id/r7"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r8"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt12"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd4"
+                    android:text="Your resume contains your passport number or marital status"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt12"
+                    android:id="@+id/rd5"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r9"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r10"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt13"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd5"
+                    android:text="Your resume does NOT contain names of your parents and/or their occupations."
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt13"
+                    android:id="@+id/rd6"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r11"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r12"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt14"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd6"
+                    android:text="You have listed things in chronological (most recent in the end) order in your resume"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt14"
+                    android:id="@+id/rd7"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r13"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r14"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt15"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd7"
+                    android:text="You have used different font sizes or font types or font colors in different sections"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt15"
+                    android:id="@+id/rd8"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r15"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r16"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt16"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd8"
+                    android:text="You have listed ALL the courses that you have done till date"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt16"
+                    android:id="@+id/rd9"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r17"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r18"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt17"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd9"
+                    android:text="Your activities and achievements listed include the specific details on scale and impact of each activity and achievement"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt17"
+                    android:id="@+id/rd10"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r19"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r20"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt18"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd10"
+                    android:text="Your resume contains references"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt18"
+                    android:id="@+id/rd11"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r21"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r22"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt19"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd11"
+                    android:text="Your resume contains information on various version of Windows operating system you can operate"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt19"
+                    android:id="@+id/rd12"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r23"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r24"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt20"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd12"
+                    android:text="Your resume contains timeline and duration for each activity/achievement"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt20"
+                    android:id="@+id/rd13"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r25"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r26"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt21"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd13"
+                    android:text="You have used different bullet styles for different sections"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt21"
+                    android:id="@+id/rd14"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r27"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r28"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt22"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd14"
+                    android:text="You have used greater than 12 font size for content part"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt22"
+                    android:id="@+id/rd15"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r29"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r30"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt23"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd15"
+                    android:text="You have included both your permanent and current addresses in your resume"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt23"
+                    android:id="@+id/rd16"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r31"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r32"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt24"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd16"
+                    android:text="Your resume includes information on different languages you can read/speak/write"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt24"
+                    android:id="@+id/rd17"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r33"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r34"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt25"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd17"
+                    android:text="Your resume contains NO spelling mistakes, grammatical errors and incorrect sentence formulation"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt25"
+                    android:id="@+id/rd18"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r35"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r36"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt26"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd18"
+                    android:text="Your resume contains declaration on the truthfulness of information"
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt26"
+                    android:id="@+id/rd19"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r37"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r38"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt27"
+                    android:textColor="#000"
+                    android:layout_below="@+id/rd19"
+                    android:text="Your resume paints a picture of you in front of a reader and is not just mere collection of facts about you."
+                    />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/txt27"
+                    android:id="@+id/rd20"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Yes"
+                        android:id="@+id/r39"
+                        android:textColor="#000"
+                        android:layout_marginLeft="50dp"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No"
+                        android:id="@+id/r40"
+                        android:textColor="#000"
+                        android:layout_marginLeft="100dp"
+                        />
+                </RadioGroup>
+
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn"
+                    android:text="SUBMIT"
+                    android:textColor="#fff"
+                    android:background="@drawable/rounded_button1"
+                    android:layout_below="@+id/rd20"
+                    android:layout_marginTop="20dp"
+                    />
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+
+
+        </RelativeLayout>
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+</ScrollView>

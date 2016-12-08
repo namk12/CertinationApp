@@ -1,0 +1,1642 @@
+[
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_register.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_register.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_apply.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_note.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_create_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_learning_front.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_learning_front.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_apple.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_training_apple.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_logicaltest.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_logicaltest.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_note_list.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_syllabus.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\google_android_syllabus.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_request.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_training.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_contact_us.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gkmain.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_gkmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_internship_view.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_internship_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gktest.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_gktest.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_logicalmain.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_logicalmain.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gkmain.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_gkmain.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_area.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_unit_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_managment.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\account_managment.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_internship.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_internship.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_google.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_training_google.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\graph_view.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\graph_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_note.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gktest.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_gktest.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_cam.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\total_amount.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\total_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_certification.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_certification.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_pls.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_timings.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_timings.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_training.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_weight.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_unit_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_display.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_display.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_student.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_tab_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_parent_connection.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_parent_connection.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_courses.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_view_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_applied_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_applied_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scientific_cal.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_scientific_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_request.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_question.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\single_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apptitude_test.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_apptitude_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logicalmain.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_logicalmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_pls.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_coupon.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_builder.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_resume_builder.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_us.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_temperature.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_unit_temperature.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_student_ambasador.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_student_ambasador.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_pls.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_workshop.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_workshop.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_trainingcourses.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_trainingcourses.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_standard_cal.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_standard_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_length.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_unit_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_trainingcourses.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_trainingcourses.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedulett.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\schedulett.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_temperature.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_unit_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_weight.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_unit_weight.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apptitude.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\apptitude.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_guest_lecture.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_guest_lecture.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontal_single_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_horizontal_single_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_weight.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_unit_weight.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_training.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_training.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_frontpage.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_frontpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_apptitude_test.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_apptitude_test.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_benefits.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_benefits.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_testinfo.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_testinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_table.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_row.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\list_item_row.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_google.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_training_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_student.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_tab_student.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_parent_connection.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_parent_connection.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_move_to_trash_dialog.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_move_to_trash_dialog.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_coverter.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_unit_coverter.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_trainingcourses.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_trainingcourses.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asking.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\asking.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\progress_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_note_details.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_note_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_student_ambasador.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_student_ambasador.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_resume_builder.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_resume_builder.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_timings.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_timings.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fab_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_parent_connection.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_parent_connection.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_training.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_training.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_standard_cal.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_standard_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_job_portal.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_job_portal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_request.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_request.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_assignment_student.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_assignment_student.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_internship.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_internship.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workshop_register.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_workshop_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_options_bar.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_options_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pool_friend.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_pool_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apptitude.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\apptitude.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testinfo.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_testinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_weight.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_unit_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pls.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_timetable_1.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_timetable_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applied_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\applied_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_objective.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_objective.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_frontpage.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_frontpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_builder.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_resume_builder.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_history.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_history.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\querry_managment.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\querry_managment.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_timings.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\google_android_timings.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_certification.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\google_android_certification.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_apply.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_length.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_unit_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_note.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_edit_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_parent_connection.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_parent_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tchr_access_act.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\tchr_access_act.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontal_single_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_horizontal_single_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_coverter.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_unit_coverter.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workshop_register.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_workshop_register.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_apple.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_training_apple.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_register.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_register.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_contact_us.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fab_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_options_bar.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_options_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_logicaltest.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_logicaltest.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_result.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logicaltest.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_logicaltest.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stu_access_act.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\stu_access_act.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_training.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_training.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scientific_cal.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_scientific_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_cam.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_us.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_display.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gktest.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_gktest.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_area.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_unit_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedulett.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\schedulett.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_temperature.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_unit_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_workshop.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_workshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_internship.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_internship.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\graph_view.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\graph_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pls.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_resume_progress.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_resume_progress.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pool_friend.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_pool_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\total_amount.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\total_amount.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_courses.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_view_courses.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_feedback.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_request.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_request.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testinfo.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_testinfo.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_applied_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_applied_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_learning_front.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_learning_front.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stu_access_act.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\stu_access_act.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_certification.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\google_android_certification.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_workshop.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_workshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logicaltest.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_logicaltest.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_internship.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_internship.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_making.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\note_making.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\utility_calculator.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\utility_calculator.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_coverter.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_unit_coverter.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_standard_cal.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_standard_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\soft_skills.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\soft_skills.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tchr_access_act.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\tchr_access_act.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_job_portal.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_job_portal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_coupon.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gkmain.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_gkmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logicalmain.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_logicalmain.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_internship.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_internship.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_resume_builder.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_resume_builder.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scientific_cal.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_scientific_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_intel.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_training_intel.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_length.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_unit_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_google_androids.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_google_androids.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_register.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_register.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_assignment_student.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_assignment_student.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_benefits.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_benefits.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_recent_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ques_act.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\ques_act.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_managment.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\account_managment.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workshop.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_workshop.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scientific_cal.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_scientific_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_temperature.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_unit_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_google_androids.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_google_androids.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_length.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_unit_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_syllabus.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_syllabus.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rms.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_rms.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_trainingcourses.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_trainingcourses.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_jobs.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\recent_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_logicalmain.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_logicalmain.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_guest_lecture.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_guest_lecture.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_table.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_feedback.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_feedback.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_resume_progress.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_resume_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\soft_skills.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\soft_skills.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_note.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_objective.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_objective.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_pls.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_pls.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rms.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_rms.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_syllabus.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\google_android_syllabus.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_making.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\note_making.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_result.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_apply.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_internship.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_internship.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_area.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_unit_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_android_timings.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\google_android_timings.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\progress_layout.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_note_list.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workshop.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_workshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_note.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_profile.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_parent_connection.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\app_bar_parent_connection.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_note_details.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_note_details.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\utility_calculator.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\utility_calculator.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_syllabus.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_syllabus.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_note.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\item_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\questions.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\questions.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture_apply.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture_apply.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_recent_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_internship_view.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_internship_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_training_intel.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_training_intel.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apptitude_test.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_apptitude_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_area.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_unit_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\querry_managment.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\querry_managment.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_standard_cal.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_standard_cal.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_note.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guest_lecture_register.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_guest_lecture_register.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_note.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_profile.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_workshop.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\app_bar_workshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\questions.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_frontpage.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_frontpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applied_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\applied_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gktest.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_gktest.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_android_certification.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_google_android_certification.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_history.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_history.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_frontpage.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_frontpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_unit_coverter.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_unit_coverter.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asking.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\asking.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_note.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_create_note.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_lecture.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_guest_lecture.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ques_act.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\ques_act.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gkmain.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\activity_gkmain.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_training.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_timetable_1.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\layout_timetable_1.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_jobs.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\recent_jobs.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_testinfo.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_testinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_row.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\list_item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_apptitude_test.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_apptitude_test.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_parent_connection.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\content_parent_connection.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_move_to_trash_dialog.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_move_to_trash_dialog.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_question.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\single_question.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_note.xml",
+        "source": "K:\\certination project\\Certination\\app\\src\\main\\res\\layout\\fragment_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\NAMAN\\Downloads\\Certination\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "K:\\certination project\\Certination\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "K:\\certination project\\Certination\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    }
+]

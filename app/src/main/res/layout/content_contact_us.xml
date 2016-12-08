@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:background="@drawable/certination_back">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/get_in_touch"
+        android:id="@+id/getintouch"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:shadowColor="@color/TransparentGrey"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="4"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn_call"
+        android:layout_x="0dp"
+        android:layout_y="39dp"
+        android:layout_marginRight="1dp"
+        android:text="Call Us"
+        android:paddingLeft="5dp"
+        android:layout_marginBottom="3dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/rect"
+        android:textColor="@android:color/black"
+        android:drawableLeft="@drawable/green2call"
+        android:textSize="15dp"
+        android:layout_below="@+id/getintouch"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_email"
+        android:layout_x="1dp"
+        android:layout_y="111dp"
+        android:text="Send us Email"
+        android:textSize="15dp"
+        android:textColor="@android:color/black"
+        android:gravity="center_vertical"
+        android:layout_marginRight="1dp"
+        android:paddingLeft="10dp"
+        android:background="@drawable/rect"
+        android:layout_below="@+id/btn_call"
+        android:drawableLeft="@drawable/email1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Where we are?"
+        android:id="@+id/where"
+        android:paddingTop="5dp"
+        android:textStyle="bold"
+        android:paddingBottom="10dp"
+        android:textSize="25dp"
+        android:layout_below="@+id/btn_email"
+        android:layout_alignLeft="@+id/getintouch"
+        android:layout_alignStart="@+id/getintouch"
+        android:shadowColor="@color/TransparentGrey"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="4"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:paddingTop="10sp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/where"
+        android:id="@+id/relativeLayout2">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="4th Floor,Gayatri Sadan,C-338, Palam Extn, Ramphal Chowk,Sector-7, Dwaraka, New Delhi 110075 "
+            android:lines="3"
+            android:paddingBottom="20dp"
+            android:textColor="@android:color/black"
+            android:paddingTop="1dp"
+            android:textSize="17dp"
+            android:id="@+id/textView"
+            android:background="@drawable/rect"
+            android:layout_alignParentTop="true"
+            android:drawableLeft="@drawable/placeholder" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="LPU, Block-13, Jalandar-Delhi GT Road, NH-1, INDIA"
+            android:drawableLeft="@drawable/placeholder"
+            android:textColor="@android:color/black"
+            android:id="@+id/pun"
+            android:paddingTop="12dp"
+            android:layout_marginTop="3dp"
+            android:paddingBottom="5dp"
+            android:textSize="17dp"
+            android:lines="3"
+            android:background="@drawable/rect"
+            android:layout_below="@+id/textView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Certination Solution and Services Partner, Corporate park, Jamshedpur, JH-831003"
+            android:paddingTop="8dp"
+            android:paddingBottom="10dp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="3dp"
+            android:drawableLeft="@drawable/placeholder"
+            android:textSize="17dp"
+            android:lines="3"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/pun"
+            android:background="@drawable/rect"
+            />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:id="@+id/imageView3"
+        android:src="@drawable/bluefinal"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:textAlignment="center"
+        android:text="Certination INC."
+        android:textSize="30dp"
+        android:textColor="@android:color/white"
+        android:id="@+id/cetination"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_alignLeft="@+id/where"
+        android:layout_alignStart="@+id/where" />
+
+</RelativeLayout>
+
+</ScrollView>
